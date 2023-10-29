@@ -1,0 +1,9 @@
+Django==4.1.7
+psycopg2-binary
+djangorestframework
+django_rest_passwordreset
+requests
+pyyaml
+ujson
+django-filter
+python-dotenv
