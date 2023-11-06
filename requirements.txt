@@ -7,3 +7,12 @@ pyyaml
 ujson
 django-filter
 python-dotenv
+redis==5.0.1
+celery
+pytest-django
+pytest-cov
+model-bakery
+drf-spectacular
+social-auth-app-django
+easy-thumbnails
+django-baton
